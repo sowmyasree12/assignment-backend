@@ -17,7 +17,10 @@ A full-stack web application that allows students to submit assignments and rece
 
 ## 🌐 Deployed URLs
 
-- Backend: https://assignment-backend-h9cx.onrender.com
+- Backend:
+- https://assignment-backend-h9cx.onrender.com
+- https://assignment-backend-h9cx.onrender.com/submissions
+       
 
 ---
 
